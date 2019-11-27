@@ -1,0 +1,42 @@
+.LoginContainer{
+    
+    width: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+
+.Inputdiv{
+    margin: 1vh;
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.Logininput{
+    padding: 2vh;
+    font-size: large;
+    border:4px solid black;
+    direction:rtl;
+    text-align: center;
+    color: black;
+    font-weight: 900;
+    width: 60vw;
+}
+
+.Logininput::placeholder{
+        color: black;
+    font-weight: 900;
+
+}
+
+.LogininputBtn{
+    background-color: #1EB100;
+    border: 4px solid;
+    width: 60%;
+    height:7vh;
+    font-weight: 900;
+}

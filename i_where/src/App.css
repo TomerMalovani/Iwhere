@@ -1,0 +1,16 @@
+.App {
+  height: 100vh;
+  background: #FFFE72;
+  border: 2px solid;
+   box-sizing: border-box;   
+    border: 5px groove rgba(255, 0, 0, 0.068);
+   
+}
+
+.appRow{
+   display: flex;
+   
+    justify-content: center;
+    align-items: center;
+}
+

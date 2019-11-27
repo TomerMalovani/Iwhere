@@ -1,0 +1,40 @@
+.EnterShift{
+    background-color: #60D838;
+    padding: 2vh;
+    font-size: large;
+    border:4px solid black;
+    direction:rtl;
+    text-align: center;
+    color: black;
+    font-weight: 900;
+    width: 60vw;
+}
+
+.Break{
+    background-color: #FDFC66;
+     padding: 2vh;
+    font-size: large;
+    border:4px solid black;
+    direction:rtl;
+    text-align: center;
+    color: black;
+    font-weight: 900;
+    width: 60vw;
+}
+
+.QuitShift{
+    background-color: #EC220C;
+     padding: 2vh;
+    font-size: large;
+    border:4px solid black;
+    direction:rtl;
+    text-align: center;
+    color: black;
+    font-weight: 900;
+    width: 60vw;
+}
+
+.Inputdiv{
+    font-size: xx-large;
+    font-weight: 900;
+}
